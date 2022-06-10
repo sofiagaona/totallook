@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "financialeducation-f5611": {
+      "hosting": {
+        "financialeducation": [
+          "financialeducation-f5611"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "financialeducation-f5611"
+  }
+}
